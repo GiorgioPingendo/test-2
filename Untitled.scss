@@ -2,7 +2,7 @@
 // Colors
 //
 // Grayscale and brand colors for use across Bootstrap.
-color:red;
+
 
 $gray-dark:                 #373a3c !default;
 $gray:                      #55595c !default;
@@ -83,5 +83,5 @@ $headings-font-family:       inherit !default;
 @import 'pingendo-bootstrap';
 
 .red {
-  color:yellow;
+  color:red;
 }
