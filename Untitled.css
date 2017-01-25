@@ -581,7 +581,7 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   font-size: 90%;
-  color: yellow; }
+  color: red; }
   pre code {
     padding: 0;
     font-size: inherit;
@@ -1347,7 +1347,7 @@ pre {
 
 .thead-inverse th {
   color: #fff;
-  background-color: yellow; }
+  background-color: red; }
 
 .thead-default th {
   color: #55595c;
@@ -1355,7 +1355,7 @@ pre {
 
 .table-inverse {
   color: #eceeef;
-  background-color: yellow; }
+  background-color: red; }
   .table-inverse th,
   .table-inverse td,
   .table-inverse thead th {
@@ -1734,22 +1734,22 @@ fieldset[disabled] a.btn {
     border-color: #0275d8; }
 
 .btn-secondary {
-  color: yellow;
+  color: red;
   background-color: #fff;
   border-color: #ccc; }
   .btn-secondary:hover {
-    color: yellow;
+    color: red;
     background-color: #e6e6e6;
     border-color: #adadad; }
   .btn-secondary:focus,
   .btn-secondary.focus {
-    color: yellow;
+    color: red;
     background-color: #e6e6e6;
     border-color: #adadad; }
   .btn-secondary:active,
   .btn-secondary.active,
   .open > .btn-secondary.dropdown-toggle {
-    color: yellow;
+    color: red;
     background-color: #e6e6e6;
     border-color: #adadad;
     background-image: none; }
@@ -1762,7 +1762,7 @@ fieldset[disabled] a.btn {
     .open > .btn-secondary.dropdown-toggle:hover,
     .open > .btn-secondary.dropdown-toggle:focus,
     .open > .btn-secondary.dropdown-toggle.focus {
-      color: yellow;
+      color: red;
       background-color: #d4d4d4;
       border-color: #8c8c8c; }
   .btn-secondary.disabled:focus,
@@ -2313,14 +2313,14 @@ input[type="button"].btn-block {
   padding: 3px 20px;
   clear: both;
   font-weight: normal;
-  color: yellow;
+  color: red;
   text-align: inherit;
   white-space: nowrap;
   background: none;
   border: 0; }
   .dropdown-item:focus,
   .dropdown-item:hover {
-    color: #e5e600;
+    color: #e60000;
     text-decoration: none;
     background-color: #f5f5f5; }
   .dropdown-item.active,
@@ -4472,11 +4472,11 @@ a.bg-danger:hover {
 
 .bg-inverse {
   color: #fff !important;
-  background-color: yellow !important; }
+  background-color: red !important; }
 
 a.bg-inverse:focus,
 a.bg-inverse:hover {
-  background-color: #cccc00 !important; }
+  background-color: #cc0000 !important; }
 
 .clearfix::after {
   content: "";
